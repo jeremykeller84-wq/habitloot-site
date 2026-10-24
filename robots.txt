@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://habitloot.com/sitemap.xml
